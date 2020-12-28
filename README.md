@@ -1,6 +1,6 @@
 # manager_arch
 
-一、前端架构文章
+一、前端架构文章：
 1、微服务架构~BFF和网关是如何演化出来的  https://www.cnblogs.com/dadadechengzi/p/9373069.html
 
 
