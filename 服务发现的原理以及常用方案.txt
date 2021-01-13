@@ -10,3 +10,6 @@ a)、客户端心跳
    2、客户端、服务端建立一个socket实现心跳状态同步；
 b)、服务端主动探测
    1、消费端订阅机制(push推送、定期轮训、推拉结合模式)
+
+
+https://mp.weixin.qq.com/s/IhsLvbhr8-jwg4nW-P7CRQ
